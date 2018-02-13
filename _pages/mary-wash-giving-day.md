@@ -15,7 +15,13 @@ post_date: 2017-03-13 15:38:18
 
 We have set an ambitious goal for our second annual #MaryWashDay: <strong>1,908 gifts</strong> in one day to honor UMW's founding year. Together, we can make it the single largest day of fundraising in the University's history, all to benefit Mary Washington students and programs.
 
-We can't do it without you. Sign up to be a <a href="https://givingday.umw.edu/giving-day/4999/signup"><strong>Giving Day Ambassador</strong></a>, spread the word with <strong>#MaryWashDay</strong>, and make your gift on <strong>March 20, 2018</strong>.
+We can't do it without you. Here's how you can help:
+<ol>
+ 	<li>Sign up to be a <a href="https://givingday.umw.edu/giving-day/4999/signup"><strong>Giving Day Ambassador.</strong></a></li>
+ 	<li>Download the <strong>Giving Day Ambassador Toolkit</strong>.</li>
+ 	<li>Spread the word with <strong>#MaryWashDay.</strong></li>
+ 	<li>Mark your calendar and bookmark <a href="https://givingday.umw.edu/"><strong>givingday.umw.edu</strong></a> to make your gift on <strong>March 20, 2018. </strong></li>
+</ol>
 <p style="text-align: right">Follow #MaryWashDay: <a href="https://www.facebook.com/mwgivingday"><img class="wp-image-48098 alignright" src="http://giving.umw.edu/wp-content/uploads/2018/02/facebook-f-no-bg-crop-150x150.jpg" alt="" width="35" height="35" /></a><a href="https://twitter.com/mwgivingday"><img class="alignright wp-image-48099" src="http://giving.umw.edu/wp-content/uploads/2018/02/twitter-150x150.jpg" alt="" width="34" height="34" /></a></p>
 
 

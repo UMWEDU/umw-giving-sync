@@ -5,9 +5,9 @@ author: Donna Harter
 post_excerpt: ""
 layout: post
 permalink: >
-  http://giving.umw.edu/blog/2017/12/01/advocating-for-others/
+  http://giving.umw.edu/blog/2017/12/05/advocating-for-others/
 published: true
-post_date: 2017-12-01 09:57:09
+post_date: 2017-12-05 09:57:09
 ---
 Brittany S. Green ’17 graduated summa cum laude with a bachelor's degree in sociology. Currently, she is working as an assistant case manager at a Richmond law firm while taking classes at Virginia Commonwealth University. Her ultimate goal: To obtain a master’s degree in criminal justice and a certificate in homeland security so that she can help crime victims. Thanks to thoughtful and generous donations from UMW donors, she is closer than ever to reaching that goal.
 

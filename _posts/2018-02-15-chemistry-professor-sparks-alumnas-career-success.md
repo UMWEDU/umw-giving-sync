@@ -11,13 +11,15 @@ permalink: >
 published: true
 post_date: 2018-02-15 11:17:56
 ---
-[caption id="attachment_48104" align="alignleft" width="300"]<img class="wp-image-48104 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/0711-K-Pearlman-Photography-cropped-300x214.jpg" alt="" width="300" height="214" /> Professor Emeritus Bernard L. Mahoney, Jr. and Marilyn Shull Black ’69[/caption]
+[caption id="attachment_48106" align="alignleft" width="214"]<img class="wp-image-48106 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/battlefield1969-cropped-214x300.jpg" alt="" width="214" height="300" /> Marilyn Shull as pictured in the 1969 Battlefield[/caption]
 
 When Marilyn Shull Black ’69 remembers Mary Washington, she pictures herself back in chemistry class in Combs Hall listening to an enthusiastic professor with a funny, Bostonian accent. The accent was especially noticeable to Marilyn since she was a southern girl from Rock Hill, S.C. – but it was more than the accent that caught her attention.
 
 “Dr. Mahoney had an outgoing personality, he was engaging, and he showed me I could actually solve problems,” says Marilyn. “His passion for chemistry was the spark that ignited my future.” After working with Dr. Mahoney on her honors thesis – and being granted access to an atomic absorption spectrometer to measure the relationship between trace metals in children’s blood and their health impact – Marilyn decided to pursue a career in medical research.
 
 This newly illuminated path led to a master’s degree from the University of Florida and a Ph.D. in chemistry from Georgia Tech. Through the years, Marilyn held numerous research positions, including jobs at the Aerospace Medical Research Laboratories, Harvard School of Public Health, and Environmental Research and Technology. In 1989, she founded Air Quality Sciences Inc. (AQS), which rapidly became the leading testing and research company focused on reducing chemical and biological indoor air pollution.
+
+[caption id="attachment_48104" align="alignright" width="300"]<img class="wp-image-48104 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/0711-K-Pearlman-Photography-cropped-300x214.jpg" alt="" width="300" height="214" /> Professor Emeritus Bernard L. Mahoney, Jr. and Marilyn Shull Black ’69[/caption]
 
 In 2001, Marilyn founded the GREENGUARD Environmental Institute, a worldwide, non-profit, voluntary product certification program that works with more than 600 manufacturers. Today, she is Vice President and Senior Technical Advisor for Underwriter Laboratories.
 

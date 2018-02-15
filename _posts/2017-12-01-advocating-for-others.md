@@ -5,7 +5,7 @@ author: Donna Harter
 post_excerpt: ""
 layout: post
 permalink: >
-  https://giving.umw.edu/blog/2017/12/01/advocating-for-others/
+  http://giving.umw.edu/blog/2017/12/01/advocating-for-others/
 published: true
 post_date: 2017-12-01 09:57:09
 ---

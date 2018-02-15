@@ -21,11 +21,9 @@ This newly illuminated path led to a master’s degree from the University of Fl
 
 In 2001, Marilyn founded the GREENGUARD Environmental Institute, a worldwide, non-profit, voluntary product certification program that works with more than 600 manufacturers. Today, she is Vice President and Senior Technical Advisor for Underwriter Laboratories.
 
-“I love children and I love being a mother and grandmother,” says Marilyn. “I’ve spent all my career in chemical and environmental sciences specifically
-
 [caption id="attachment_48104" align="alignright" width="400"]<img class="wp-image-48104" src="http://giving.umw.edu/wp-content/uploads/2018/02/0711-K-Pearlman-Photography-cropped-1024x731.jpg" alt="" width="400" height="286" /> Professor Emeritus Bernard L. Mahoney, Jr. and Marilyn Shull Black ’69[/caption]
 
-measuring indoor air quality and its impact on children’s health. The more I learned about contaminants, environmental exposure, and their connection to children’s health, the harder I worked to find solutions.”
+“I love children and I love being a mother and grandmother,” says Marilyn. “I’ve spent all my career in chemical and environmental sciences specifically measuring indoor air quality and its impact on children’s health. The more I learned about contaminants, environmental exposure, and their connection to children’s health, the harder I worked to find solutions.”
 
 Marilyn explains that adults get about 75 percent of environmental exposure to contaminants from the air they breathe. Since children breathe faster and have less body weight, they get even higher doses of contaminants, which can negatively impact brain development.
 

@@ -11,6 +11,8 @@ permalink: >
 published: true
 post_date: 2018-02-15 11:17:56
 ---
+[caption id="attachment_48104" align="alignleft" width="300"]<img class="wp-image-48104 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/0711-K-Pearlman-Photography-cropped-300x214.jpg" alt="" width="300" height="214" /> Professor Emeritus Bernard L. Mahoney, Jr. and Marilyn Shull Black ’69[/caption]
+
 When Marilyn Shull Black ’69 remembers Mary Washington, she pictures herself back in chemistry class in Combs Hall listening to an enthusiastic professor with a funny, Bostonian accent. The accent was especially noticeable to Marilyn since she was a southern girl from Rock Hill, S.C., but it was more than the accent that caught her attention.
 
 “Dr. Mahoney had an outgoing personality, he was engaging, and he showed me I could actually solve problems,” says Marilyn. “His passion for chemistry was the spark that ignited my future.” After working with Dr. Mahoney on her honors thesis – and being granted access to an atomic absorption spectrometer to measure the relationship between trace metals in children’s blood and their health impact – Marilyn decided to pursue a career in medical research.

@@ -19,7 +19,7 @@ When Marilyn Shull Black ’69 remembers Mary Washington, she pictures herself b
 
 This newly illuminated path led to a master’s degree from the University of Florida and a Ph.D. in chemistry from Georgia Tech. Through the years, Marilyn held numerous research positions, including jobs at the Aerospace Medical Research Laboratories, Harvard School of Public Health, and Environmental Research and Technology. In 1989, she founded Air Quality Sciences Inc. (AQS), which rapidly became the leading testing and research company focused on reducing chemical and biological indoor air pollution.
 
-[caption id="attachment_48104" align="alignright" width="300"]<img class="wp-image-48104 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/0711-K-Pearlman-Photography-cropped-300x214.jpg" alt="" width="300" height="214" /> Professor Emeritus Bernard L. Mahoney, Jr. and Marilyn Shull Black ’69[/caption]
+[caption id="attachment_48104" align="alignright" width="400"]<img class="wp-image-48104" src="http://giving.umw.edu/wp-content/uploads/2018/02/0711-K-Pearlman-Photography-cropped-1024x731.jpg" alt="" width="400" height="286" /> Professor Emeritus Bernard L. Mahoney, Jr. and Marilyn Shull Black ’69[/caption]
 
 In 2001, Marilyn founded the GREENGUARD Environmental Institute, a worldwide, non-profit, voluntary product certification program that works with more than 600 manufacturers. Today, she is Vice President and Senior Technical Advisor for Underwriter Laboratories.
 

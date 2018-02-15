@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-12-01 09:57:09
 ---
-Brittany S. Green ’17 graduated summa cum laude this past May with a bachelor's degree in sociology. Currently, she is working as an assistant case manager at a Richmond law firm while taking classes at Virginia Commonwealth University. Her ultimate goal: To obtain a master’s degree in criminal justice and a certificate in homeland security so that she can help crime victims. Thanks to thoughtful and generous donations from UMW donors, she is closer than ever to reaching that goal.
+Brittany S. Green ’17 graduated summa cum laude with a bachelor's degree in sociology. Currently, she is working as an assistant case manager at a Richmond law firm while taking classes at Virginia Commonwealth University. Her ultimate goal: To obtain a master’s degree in criminal justice and a certificate in homeland security so that she can help crime victims. Thanks to thoughtful and generous donations from UMW donors, she is closer than ever to reaching that goal.
 
 A first-generation college student from Tappahannock, Virginia, Brittany credits the Rappahannock Scholars program for guiding her to Mary Washington. The unique privately funded partnership between UMW and six high schools in the Northern Neck region of Virginia encourages college-level study for students who show promising academic and leadership characteristics.
 

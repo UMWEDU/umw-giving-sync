@@ -1,8 +1,8 @@
 ---
 ID: 48103
 post_title: >
-  Chemistry Professor Sparks Alumna’s
-  Career Success
+  Alumna Honors Chemistry Professor for
+  Sparking Her Career Success
 author: Donna Harter
 post_excerpt: ""
 layout: post

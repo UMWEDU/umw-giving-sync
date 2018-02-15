@@ -27,6 +27,8 @@ Marilyn explains that adults get about 75 percent of environmental exposure to c
 
 To show gratitude for Dr. Mahoney’s positive influence on her education, life, and overall career, Marilyn recently established the <strong>Bernard L. Mahoney Jr. Student Research Fellowship in Science</strong>. Dr. Mahoney retired from Mary Washington in 2002 and was granted emeritus status in recognition of his 39 years of service. He was honored to learn about the new endowment named for him that will offer assistance to UMW students majoring in a natural or physical science discipline. Selected students can receive stipends and essential support for research equipment, supplies, and/or approved conferences. At the conclusion of each Mahoney Fellowship, students will submit a summary report and showcase the final results.
 
-Marilyn’s gift to fund the Mahoney endowment came through the Khaos Foundation, an Atlanta-based, non-profit organization she founded and named in reference to the mythological goddess of air. “I hope the new endowment in honor of Dr. Mahoney will serve as a catalyst to spark passion in others,” says Marilyn. “Perhaps they can continue to research problems and find real solutions that make a difference in our society.”
+Marilyn’s gift to fund the Mahoney endowment came through the Khaos Foundation, an Atlanta-based, non-profit organization she founded and named in reference to the mythological goddess of air.
 
-For information about giving opportunities, contact the UMW Office of Advancement at 540-654-2059.
+“I hope the new endowment in honor of Dr. Mahoney will serve as a catalyst to spark passion in others,” says Marilyn. “Perhaps they can continue to research problems and find real solutions that make a difference in our society.”
+
+<em>For information about giving opportunities, contact the UMW Office of Advancement at 540-654-2059.</em>

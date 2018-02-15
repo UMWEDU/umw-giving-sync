@@ -5,9 +5,9 @@ author: Donna Harter
 post_excerpt: ""
 layout: post
 permalink: >
-  https://giving.umw.edu/blog/2017/12/12/2017-celebration-giving/
+  http://giving.umw.edu/blog/2017/12/05/2017-celebration-giving/
 published: true
-post_date: 2017-12-12 16:27:29
+post_date: 2017-12-05 16:27:29
 ---
 <a href="https://flic.kr/s/aHsm7AMGwS"><img class="alignleft wp-image-48079" src="http://giving.umw.edu/wp-content/uploads/2017/12/5414-K-Pearlman-Photography-e1513113857938-262x300.jpg" alt="" width="160" height="183" /></a>President Troy D. Paino and Kelly Paino welcomed UMW donors to the annual Celebration of Giving held November 30, 2017, at the Jepson Alumni Executive Center.
 

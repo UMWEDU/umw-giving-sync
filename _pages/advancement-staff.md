@@ -32,7 +32,7 @@ Email: <a href="mailto:maylward@umw.edu">maylward@umw.edu</a></td>
 <td><strong>Amy Beaulieu<br style="font-weight: normal" />Assistant Director of Alumni Communications<br style="font-weight: normal" /><span style="font-weight: normal">Phone: 540/654-2062</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:abeaulie@umw.edu">abeaulie@umw.edu</a></span></strong></td>
 </tr>
 <tr>
-<td style="text-align: center"><img class="alignnone size-medium wp-image-48113" src="http://giving.umw.edu/wp-content/uploads/2018/02/Bowling-1-240x300.jpg" alt="" width="240" height="300" /></td>
+<td style="text-align: center"><img class="alignnone wp-image-48114 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/Bowling-1-224x300.jpg" alt="" width="224" height="300" /></td>
 <td><strong>Lisa Jamison Bowling '89
 <strong>Vice President for Advancement &amp; University Relations</strong>
 </strong>Phone: 540/654-1372
@@ -207,4 +207,4 @@ Email: <a href="mailto:mwhites2@umw.edu" target="_blank" rel="noopener">mwhites2
 </tr>
 </tbody>
 </table>
-<br />
+&nbsp;

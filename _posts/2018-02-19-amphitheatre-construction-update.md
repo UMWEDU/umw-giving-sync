@@ -9,7 +9,9 @@ permalink: >
 published: true
 post_date: 2018-02-19 15:39:08
 ---
-Construction is proceeding on time. A ribbon-cutting ceremony is planned for Saturday, June 2, 2018. See latest photos below taken on February 20, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
+Construction is proceeding on time. A ribbon-cutting ceremony is planned for Saturday, June 2, 2018.
+
+See the latest photos below taken on February 20, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
 
 &nbsp;
 <table style="height: 97px" width="687">
@@ -24,14 +26,14 @@ Construction is proceeding on time. A ribbon-cutting ceremony is planned for Sat
 
 
 
-[caption id="attachment_48120" align="alignleft" width="300"]<img class="wp-image-48120 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/IMG_7733-300x225.jpg" alt="" width="300" height="225" /> Showing new addition to Trinkle that includes water fountains and restroom facilities.[/caption]</td>
+[caption id="attachment_48120" align="alignleft" width="300"]<img class="wp-image-48120 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/IMG_7733-300x225.jpg" alt="" width="300" height="225" /> This view shows the new addition to Trinkle that includes water fountains and restroom facilities.[/caption]</td>
 </tr>
 <tr>
 <td>
 
 
 
-[caption id="attachment_48116" align="alignleft" width="300"]<img class="wp-image-48116 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/IMG_7714-300x225.jpg" alt="" width="300" height="225" /> This view shows some newly poured concrete at the top of the seating area. To the left of the stage, you can see the back of Lee Hall; through the trees, you can see a portion of Monroe Hall.[/caption]</td>
+[caption id="attachment_48116" align="alignleft" width="300"]<img class="wp-image-48116 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/IMG_7714-300x225.jpg" alt="" width="300" height="225" /> This view shows newly poured concrete at the top of the seating area. To the left of the stage, you can see the back of Lee Hall; through the trees, you can see a portion of Monroe Hall.[/caption]</td>
 <td>
 
 
@@ -52,4 +54,4 @@ Construction is proceeding on time. A ribbon-cutting ceremony is planned for Sat
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

@@ -1,6 +1,6 @@
 ---
 ID: 48127
-post_title: 'Timeless Advice From Dean Bushnell: You can if you will &#8230;'
+post_title: 'Timeless Advice: You can if you will &#8230;'
 author: Donna Harter
 post_excerpt: ""
 layout: post

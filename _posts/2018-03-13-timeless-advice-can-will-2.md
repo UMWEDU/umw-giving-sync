@@ -11,7 +11,7 @@ post_date: 2018-03-13 12:04:03
 ---
 Dean of Women Nina Bushnell is infamous among Mary Washington alumni for enforcing strict dinner etiquette, approving students’ dates, and upholding rigid decorum in all things. Many alumni laughingly tell stories of wearing rolled-up pants underneath a raincoat or crawling out between tables to escape a formal dinner in Seacobeck.
 
-[caption id="attachment_48128" align="alignleft" width="214"]<img class="size-medium wp-image-48128" src="http://giving.umw.edu/wp-content/uploads/2018/03/virginia-colwell-read-214x300.jpg" alt="" width="214" height="300" /> Virginia Colwell Read ’49 as pictured in the 1949 edition of the Battlefield[/caption]
+[caption id="attachment_48128" align="alignleft" width="188"]<img class="wp-image-48128" src="http://giving.umw.edu/wp-content/uploads/2018/03/virginia-colwell-read-214x300.jpg" alt="" width="188" height="263" /> Virginia Colwell Read ’49 as pictured in the 1949 edition of the Battlefield[/caption]
 
 For Virginia Colwell Read ’49, it was an orientation speech by “Mrs. B” that stayed with her to become a staple in her life lessons.
 

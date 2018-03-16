@@ -19,7 +19,8 @@ See photos below taken on March 14, 2018, by UMW Assistant Director of Capital O
 This view is looking north toward
 the stage.</td>
 <td><img class="alignnone size-medium wp-image-48136" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8053-300x225.jpg" alt="" width="300" height="225" />
-Workers continue to restore the stage.</td>
+Workers continue to restore the vital
+elements of the stage.</td>
 </tr>
 <tr>
 <td>
@@ -68,4 +69,4 @@ back of Lee Hall.</td>
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

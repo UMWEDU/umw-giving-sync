@@ -10,7 +10,7 @@ post_date: 2016-06-23 14:18:40
 ---
 <a href="https://giving.umw.edu/wp-content/uploads/2014/02/Large-Format-JPG1.jpg"><img class="alignleft wp-image-45981 size-medium" src="https://giving.umw.edu/wp-content/uploads/2014/02/Large-Format-JPG1-300x239.jpg" alt="Large Format JPG[1]" width="300" height="239" /></a>For more than a century, the open air amphitheatre has been a central part of the Mary Washington experience. Hidden in the grove behind Lee and Trinkle Halls, this campus landmark has been the venue of choice for numerous commencements, May Day celebrations, plays, concerts, and even weddings.
 
-Through the years, weather and time have not been kind. In 2012, consultants examined the site and said the amphitheatre must be restored or it could be lost forever. In 2014, UMW began a campaign to raise $3 million to fund this vital project. As of March 5, 2018, UMW has secured a total of $2.9 million in gifts and pledges toward the project's overall $3-million goal.
+Through the years, weather and time have not been kind. In 2012, consultants examined the site and said the amphitheatre must be restored or it could be lost forever. In 2014, UMW began a campaign to raise $3 million to fund this vital project. As of March 5, 2018, UMW has secured a total of $2.91 million in gifts and pledges toward the project's overall $3-million goal.
 
 <strong>The University still needs your help to secure the final $90,000.</strong> <em>(To be <a href="http://giving.umw.edu/amphitheatre/amphitheatre-recognition-levels/">recognized on the Amphitheatre donor wall</a>, qualifying gifts and pledges must be received by March 31, 2018.)</em>
 

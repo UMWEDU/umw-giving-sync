@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-16 13:36:06
 ---
-<strong>UMW still needs $90,000 to meet the $3-million project goal. If you make your gift on Giving Day, be sure to select OTHER and then type in "Amphitheatre."</strong>
+<em><strong>UMW still needs $90,000 to meet the $3-million project goal. If you make your gift on Giving Day, be sure to select OTHER and then type in "Amphitheatre Restoration."</strong></em>
 
 Construction is proceeding on time. A dedication ceremony is planned for Saturday, June 2, 2018. See photos below taken on March 14, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
 <table width="687">
@@ -69,4 +69,4 @@ back of Lee Hall.</td>
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

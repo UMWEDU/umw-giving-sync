@@ -19,7 +19,7 @@ See photos below taken on March 14, 2018, by UMW Assistant Director of Capital O
 This view is looking north toward
 the stage.</td>
 <td><img class="alignnone size-medium wp-image-48136" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8053-300x225.jpg" alt="" width="300" height="225" />
-Workers continues to restore the stage.</td>
+Workers continue to restore the stage.</td>
 </tr>
 <tr>
 <td>
@@ -29,7 +29,8 @@ Workers continues to restore the stage.</td>
 This view is looking northwest down the
 Amphitheatre steps and toward the stage.</td>
 <td><img class="alignnone size-medium wp-image-48142" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8062-300x225.jpg" alt="" width="300" height="225" />
-You can see old and new benches in place.</td>
+You can see old and new benches in place.
+New backrests will be added next.</td>
 </tr>
 <tr>
 <td>

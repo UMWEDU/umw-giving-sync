@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-02-19 15:39:08
 ---
-Construction is proceeding on time. A ribbon-cutting ceremony is planned for Saturday, June 2, 2018.
+Construction is proceeding on time. A dedication ceremony is planned for Saturday, June 2, 2018.
 
-See the latest photos below taken on February 20, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
+See photos below taken on February 20, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
 
 &nbsp;
 <table style="height: 97px" width="687">
@@ -54,4 +54,4 @@ See the latest photos below taken on February 20, 2018, by UMW Assistant Directo
 </tr>
 </tbody>
 </table>
-<br />
+&nbsp;

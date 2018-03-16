@@ -12,21 +12,23 @@ post_date: 2018-03-16 13:36:06
 Construction is proceeding on time. A dedication ceremony is planned for Saturday, June 2, 2018.
 
 See photos below taken on March 14, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
-
-&nbsp;
 <table width="687">
 <tbody>
 <tr>
-<td>
-
-
-
-[caption id="attachment_48119" align="alignleft" width="300"]<img class="wp-image-48119 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/IMG_7732-300x225.jpg" alt="" width="300" height="225" /> Looking toward the back gates and Campus Drive, this view shows the stage and full seating area.[/caption]</td>
-<td></td>
+<td> <img class="alignnone size-medium wp-image-48135" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8052-300x225.jpg" alt="" width="300" height="225" /></td>
+<td><img class="alignnone size-medium wp-image-48136" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8053-300x225.jpg" alt="" width="300" height="225" /></td>
 </tr>
 <tr>
-<td></td>
-<td>&nbsp;</td>
+<td> <img class="alignnone size-medium wp-image-48141" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8060-300x225.jpg" alt="" width="300" height="225" /></td>
+<td> <img class="alignnone size-medium wp-image-48142" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8062-300x225.jpg" alt="" width="300" height="225" /></td>
+</tr>
+<tr>
+<td><img class="alignnone size-medium wp-image-48140" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8058-300x225.jpg" alt="" width="300" height="225" /></td>
+<td><img class="alignnone size-medium wp-image-48144" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8066-300x225.jpg" alt="" width="300" height="225" /></td>
+</tr>
+<tr>
+<td><img class="alignnone size-medium wp-image-48133" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8050-300x225.jpg" alt="" width="300" height="225" /></td>
+<td><img class="alignnone size-medium wp-image-48138" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8056-300x225.jpg" alt="" width="300" height="225" /></td>
 </tr>
 </tbody>
 </table>

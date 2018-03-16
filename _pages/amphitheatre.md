@@ -12,11 +12,11 @@ post_date: 2016-06-23 14:18:40
 
 Through the years, weather and time have not been kind. In 2012, consultants examined the site and said the amphitheatre must be restored or it could be lost forever. In 2014, UMW began a campaign to raise $3 million to fund this vital project. As of March 5, 2018, UMW has secured a total of $2.9 million in gifts and pledges toward the project's overall $3-million goal.
 
-The University still needs your help to secure the final $100,000. <em>(To be <a href="http://giving.umw.edu/amphitheatre/amphitheatre-recognition-levels/">recognized on the Amphitheatre donor wall</a>, qualifying gifts and pledges must be received by March 31, 2018.)</em>
+<strong>The University still needs your help to secure the final $90,000.</strong> <em>(To be <a href="http://giving.umw.edu/amphitheatre/amphitheatre-recognition-levels/">recognized on the Amphitheatre donor wall</a>, qualifying gifts and pledges must be received by March 31, 2018.)</em>
 
 <a href="http://umw.edu/amphitheatre-gift" target="_blank" rel="noopener"><strong>Make your gift today to help complete the restoration of this cherished landmark </strong></a><em><strong> </strong> (type in "Amphitheatre Restoration" from the drop-down menu in "Your Gift" section of the form.) </em><em>
 </em>
 
-A dedication ceremony is planned for June 2, 2018. <a href="http://giving.umw.edu/blog/2018/02/19/amphitheatre-construction-update/" target="_blank" rel="noopener"><strong>Click here to see c</strong><strong>onstruction photos.</strong></a>
+A dedication ceremony is planned for June 2, 2018. <a href="http://giving.umw.edu/blog/2018/03/16/amphitheatre-construction-update-march-2018/"><strong>Click here to see c</strong></a><strong>onstruction photos.</strong>
 
 &nbsp;

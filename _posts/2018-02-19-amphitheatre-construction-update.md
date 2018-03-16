@@ -1,6 +1,6 @@
 ---
 ID: 48107
-post_title: Amphitheatre Construction Update
+post_title: 'Amphitheatre Construction Update &#8211; February 2018'
 author: Donna Harter
 post_excerpt: ""
 layout: post
@@ -54,4 +54,4 @@ See photos below taken on February 20, 2018, by UMW Assistant Director of Capita
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

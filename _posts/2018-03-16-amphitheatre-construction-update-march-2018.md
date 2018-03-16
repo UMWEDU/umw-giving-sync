@@ -15,21 +15,56 @@ See photos below taken on March 14, 2018, by UMW Assistant Director of Capital O
 <table width="687">
 <tbody>
 <tr>
-<td> <img class="alignnone size-medium wp-image-48135" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8052-300x225.jpg" alt="" width="300" height="225" /></td>
-<td><img class="alignnone size-medium wp-image-48136" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8053-300x225.jpg" alt="" width="300" height="225" /></td>
+<td> <img class="alignnone size-medium wp-image-48135" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8052-300x225.jpg" alt="" width="300" height="225" />
+This view is looking north toward
+the stage.</td>
+<td><img class="alignnone size-medium wp-image-48136" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8053-300x225.jpg" alt="" width="300" height="225" />
+Workers continues to restore the stage.</td>
 </tr>
 <tr>
-<td> <img class="alignnone size-medium wp-image-48141" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8060-300x225.jpg" alt="" width="300" height="225" /></td>
-<td> <img class="alignnone size-medium wp-image-48142" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8062-300x225.jpg" alt="" width="300" height="225" /></td>
+<td>
+
+ <img class="alignnone size-medium wp-image-48141" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8060-300x225.jpg" alt="" width="300" height="225" />
+
+This view is looking northwest down the
+Amphitheatre steps and toward the stage.</td>
+<td><img class="alignnone size-medium wp-image-48142" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8062-300x225.jpg" alt="" width="300" height="225" />
+You can see old and new benches in place.</td>
 </tr>
 <tr>
-<td><img class="alignnone size-medium wp-image-48140" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8058-300x225.jpg" alt="" width="300" height="225" /></td>
-<td><img class="alignnone size-medium wp-image-48144" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8066-300x225.jpg" alt="" width="300" height="225" /></td>
+<td>
+
+<img class="alignnone size-medium wp-image-48140" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8058-300x225.jpg" alt="" width="300" height="225" />
+
+This view shows an accessible approach at
+the top of the Amphitheatre. Recognition
+for donors of $10,000 and more will be
+mounted on the wall at right.</td>
+<td>
+
+<img class="alignnone size-medium wp-image-48144" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8066-300x225.jpg" alt="" width="300" height="225" />
+
+This view shows preserved benches blended
+in with new benches. You can see part of the
+new restroom facility on the back of Trinkle
+at right.</td>
 </tr>
 <tr>
-<td><img class="alignnone size-medium wp-image-48133" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8050-300x225.jpg" alt="" width="300" height="225" /></td>
-<td><img class="alignnone size-medium wp-image-48138" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8056-300x225.jpg" alt="" width="300" height="225" /></td>
+<td>
+
+<img class="alignnone size-medium wp-image-48133" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8050-300x225.jpg" alt="" width="300" height="225" />
+
+This view is looking east through the
+walkway of the new restroom addition
+behind Trinkle Hall.</td>
+<td>
+
+<img class="alignnone size-medium wp-image-48138" src="http://giving.umw.edu/wp-content/uploads/2018/03/IMG_8056-300x225.jpg" alt="" width="300" height="225" />
+
+This view is looking west. At left is the back
+of Trinkle. In the distance, you can see the
+back of Lee Hall.</td>
 </tr>
 </tbody>
 </table>
-<br />
+&nbsp;

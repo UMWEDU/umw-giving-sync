@@ -4,7 +4,7 @@ post_title: Home
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: https://giving.umw.edu/
+permalink: http://giving.umw.edu/
 published: true
 post_date: 2011-09-03 00:26:17
 ---

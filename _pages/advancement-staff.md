@@ -82,7 +82,7 @@ Email: <a href="mailto:dharter@umw.edu" target="_blank" rel="noopener">dharter@u
 </tr>
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Zach-e1474898629980.gif"><img class="alignnone wp-image-47551" src="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Zach-e1474898629980-237x300.gif" alt="web-465-zach" width="168" height="213" /></a></td>
-<td><strong>Zachary Hatcher<br style="font-weight: normal" />Senior Director of Corporate, Foundation, and Individual Giving
+<td><strong>Zachary Hatcher<br style="font-weight: normal" />Executive Director of Development
 <span style="font-weight: normal">Phone: 540/654-2061</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:zhatcher@umw.edu">zhatcher@umw.edu</a></span></strong></td>
 </tr>
 <tr>
@@ -207,4 +207,4 @@ Email: <a href="mailto:mwhites2@umw.edu" target="_blank" rel="noopener">mwhites2
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

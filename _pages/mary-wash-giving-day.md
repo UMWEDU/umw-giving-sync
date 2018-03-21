@@ -4,8 +4,7 @@ post_title: Mary Wash Giving Day
 author: Elizabeth Hunsinger
 post_excerpt: ""
 layout: page
-permalink: >
-  http://giving.umw.edu/mary-wash-giving-day/
+permalink: https://givingday.umw.edu/
 published: true
 post_date: 2017-03-13 15:38:18
 ---

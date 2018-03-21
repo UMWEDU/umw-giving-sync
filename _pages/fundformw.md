@@ -4,7 +4,8 @@ post_title: Fund for Mary Washington
 author: Donna Harter
 post_excerpt: ""
 layout: page
-permalink: http://giving.umw.edu/fundformw/
+permalink: >
+  https://givingday.umw.edu/giving-day/4999/department/5000
 published: true
 post_date: 2011-09-30 18:00:02
 ---

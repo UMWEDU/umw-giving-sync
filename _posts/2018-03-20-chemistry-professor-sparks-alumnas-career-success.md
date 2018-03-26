@@ -7,9 +7,9 @@ author: Donna Harter
 post_excerpt: ""
 layout: post
 permalink: >
-  http://giving.umw.edu/blog/2018/02/15/chemistry-professor-sparks-alumnas-career-success/
+  http://giving.umw.edu/blog/2018/03/20/chemistry-professor-sparks-alumnas-career-success/
 published: true
-post_date: 2018-02-15 11:17:56
+post_date: 2018-03-20 11:17:56
 ---
 [caption id="attachment_48106" align="alignleft" width="214"]<img class="wp-image-48106 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/battlefield1969-cropped-214x300.jpg" alt="" width="214" height="300" /> Marilyn Shull as pictured in the 1969 Battlefield[/caption]
 

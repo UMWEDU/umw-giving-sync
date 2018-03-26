@@ -21,8 +21,6 @@ Dean Bushnell’s advice during freshmen orientation in the fall of 1945 was, �
 
 The confidence Virginia gained at Mary Washington has had tremendous staying power as her class nears its 70th reunion. “In a lifetime of careers and homemaking, raising children and engaging in community affairs, traveling or setting roots, the fact that my professors accepted me as a valued individual – regardless of my gender – has helped me navigate numerous and varied roads,” says Virginia.
 
-To help others find their paths, Virginia is sponsoring the Virginia Colwell Read 1908 Challenge. Mary Washington was founded in 1908, and the 1908 Society recognizes alumni whose classes already have celebrated 50th reunions. To continue the theme, Virginia will make a $5,000 gift to the Fund for Mary Washington if alumni, parents, friends, faculty, staff, students, and businesses make a total of 1,908 gifts on March 20, 2018.
+To help others find their paths, Virginia recently sponsored the Virginia Colwell Read 1908 Challenge to encourage others to give during the 2018 Giving Day. Mary Washington was founded in 1908, and the 1908 Society recognizes alumni whose classes already have celebrated 50th reunions. To continue the theme, Virginia gave a $5,000 gift to the Fund for Mary Washington when alumni, parents, friends, faculty, staff, students, and businesses exceeded the goal of 1,908 gifts on March 20, 2018.
 
-“I was brought up with the obligation to return what has been given to me so others will be blessed,” says Virginia. “My education was given to me and it is my hope, that by supporting UMW and this challenge, others will be able to share the advantages of an education.”
-
-Mark your calendar for March 20 and plan to make your gift at <a href="https://givingday.umw.edu." target="_blank" rel="noopener">https://givingday.umw.edu.</a>
+“I was brought up with the obligation to return what has been given to me so others will be blessed,” says Virginia. “My education was given to me and it is my hope, that by supporting UMW, others will be able to share the advantages of an education.”

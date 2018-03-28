@@ -76,7 +76,7 @@ Email: <a href="mailto:bsmith9@umw.edu">bsmith9@umw.edu</a></td>
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/5187-K-Pearlman-Photography-e1474899134237.jpg"><img class="alignnone wp-image-47559" src="https://giving.umw.edu/wp-content/uploads/2011/09/5187-K-Pearlman-Photography-e1474899134237-238x300.jpg" alt="5187-k-pearlman-photography" width="167" height="211" /></a></td>
 <td><strong>Donna Harter
-Executive <strong>Director of Advancement Campaign Initiatives
+Executive <strong>Director of Advancement Initiatives
 </strong></strong>Phone: 540/654-2059
 Email: <a href="mailto:dharter@umw.edu" target="_blank" rel="noopener">dharter@umw.edu</a></td>
 </tr>
@@ -207,4 +207,4 @@ Email: <a href="mailto:mwhites2@umw.edu" target="_blank" rel="noopener">mwhites2
 </tr>
 </tbody>
 </table>
-<br />
+&nbsp;

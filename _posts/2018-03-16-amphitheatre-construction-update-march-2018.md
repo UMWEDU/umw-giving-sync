@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-16 13:36:06
 ---
-<p style="text-align: left"><em><strong> UMW still needs about $90,000 to meet the $3-million project goal for the Amphitheatre Restoration. Names of donors contributing $10,000 and more will be listed on a donor wall near the back of the Amphitheatre. The last day to make a qualifying gift and/or pledge to have your name on the donor wall is April 10, 2018. Contact the Office of Advancement at 540-654-2059 or <a href="https://securelb.imodules.com/s/1588/rd17/interior.aspx?sid=1588&amp;gid=1&amp;pgid=1712&amp;cid=3848" target="_blank" rel="noopener">make a gift online</a>.
+<p style="text-align: left"><em><strong> UMW still needs about $90,000 to meet the $3-million project goal for the Amphitheatre Restoration. Names of donors contributing $10,000 and more will be listed on a donor wall near the top of the Amphitheatre. The last day to make a qualifying gift and/or pledge to have your name on the donor wall is April 10, 2018. Contact the Office of Advancement at 540-654-2059 or <a href="https://securelb.imodules.com/s/1588/rd17/interior.aspx?sid=1588&amp;gid=1&amp;pgid=1712&amp;cid=3848" target="_blank" rel="noopener">make a gift online</a>.
 </strong></em>
 <em><strong><img class="alignnone wp-image-48152" src="http://giving.umw.edu/wp-content/uploads/2018/03/20180326_132842-1024x731.jpg" alt="" width="1000" height="714" /></strong></em></p>
 Construction is proceeding on time. A dedication ceremony is planned for Saturday, June 2, 2018. See additional photos below taken on March 14, 2018, by UMW Assistant Director of Capital Outlay Rob Johnston.
@@ -70,4 +70,4 @@ back of Lee Hall.</td>
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

@@ -20,4 +20,5 @@ post_date: 2017-04-25 16:24:29
 <strong>NOTES:</strong>
 * Additional naming opportunities are available for gifts of $1 million and more.
 * Gifts may be made now or through a five-year pledge agreement.
-<em><strong>* To be recognized on the donor wall, qualifying gifts and pledges must be received by March 31, 2018.</strong></em>
+<em><strong>* To be recognized on the donor wall, qualifying gifts and pledges must be received by March 31, 2018. (DATE HAS BEEN EXTENDED TO APRIL 5, 2018.)
+</strong></em>

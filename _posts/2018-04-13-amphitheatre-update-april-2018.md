@@ -14,7 +14,7 @@ post_date: 2018-04-13 12:20:37
 
 &nbsp;
 
-<img class="aligncenter wp-image-48156" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-4-1024x768.jpg" alt="" width="950" height="713" />
+<img class="aligncenter wp-image-48156" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-4-1024x768.jpg" alt="" width="800" height="600" />
 
 <img class="aligncenter wp-image-48157" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-1-1024x731.jpg" alt="" width="950" height="679" />
 

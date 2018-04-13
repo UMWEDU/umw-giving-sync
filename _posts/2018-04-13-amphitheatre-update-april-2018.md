@@ -14,11 +14,11 @@ post_date: 2018-04-13 12:20:37
 
 &nbsp;
 
-<img class="aligncenter wp-image-48156" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-4-1024x768.jpg" alt="" width="750" height="563" />
+<img class="aligncenter wp-image-48156" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-4-1024x768.jpg" alt="" width="700" height="525" />
 
-<img class="aligncenter wp-image-48157" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-1-1024x731.jpg" alt="" width="950" height="679" />
+<img class="aligncenter wp-image-48157" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-1-1024x731.jpg" alt="" width="700" height="500" />
 
-<strong><img class="aligncenter wp-image-48159" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-2-1024x768.jpg" alt="" width="950" height="713" /></strong>
+<strong><img class="aligncenter wp-image-48159" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-2-1024x768.jpg" alt="" width="700" height="525" /></strong>
 
-<strong><img class="aligncenter wp-image-48158" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-3-1024x768.jpg" alt="" width="950" height="713" />
+<strong><img class="aligncenter wp-image-48158" src="http://giving.umw.edu/wp-content/uploads/2018/04/april-13-3-1024x768.jpg" alt="" width="700" height="525" />
 </strong>

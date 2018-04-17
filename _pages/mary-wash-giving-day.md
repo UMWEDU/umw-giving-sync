@@ -4,12 +4,18 @@ post_title: Mary Wash Giving Day
 author: Elizabeth Hunsinger
 post_excerpt: ""
 layout: page
-permalink: https://givingday.umw.edu/
+permalink: >
+  http://giving.umw.edu/mary-wash-giving-day/
 published: true
 post_date: 2017-03-13 15:38:18
 ---
-<h2>#MaryWashDay Is Back March 20, 2018</h2>
-<h3><em>What can you do in a day?</em></h3>
+<h2>#MaryWashDay Breaks Records in 2018</h2>
+<a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-2018-infographic-PDF-print.pdf"><em>Download the 2018 Mary Wash Giving Day results infographic as a PDF</em></a>.
+
+<a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version.jpg"><img class="size-large wp-image-48163 alignnone" src="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version-410x1024.jpg" alt="" width="410" height="1024" /></a>
+
+<hr />
+
 <a href="https://givingday.umw.edu/giving-day/4999"><img class="alignleft wp-image-48097" src="http://giving.umw.edu/wp-content/uploads/2018/02/MaryWashDay_vert_rgb_hires-300x273.jpg" alt="" width="235" height="214" /></a>Mary Wash Giving Day (#MaryWashDay) is a 24-hour online day of giving to the University of Mary Washington. Back for its second year, it will take place <strong>Tuesday, March 20, 2018</strong>.  Mark your calendar and bookmark <a href="https://givingday.umw.edu/giving-day/4999"><strong>givingday.umw.edu</strong></a> to be part of the excitement!
 
 We have set an ambitious goal for our second annual #MaryWashDay: <strong>1,908 gifts</strong> in one day to honor UMW's founding year. Together, we can make it the single largest day of fundraising in the University's history, all to benefit Mary Washington students and programs.

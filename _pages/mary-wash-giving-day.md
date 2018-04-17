@@ -13,7 +13,7 @@ post_date: 2017-03-13 15:38:18
 <a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-2018-infographic-PDF-print.pdf"><em>Download the 2018 Mary Wash Giving Day results infographic as a PDF</em></a>.
 
 <a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version.jpg">
-<img class="size-large wp-image-48163 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version-410x1024.jpg" alt="" width="410" height="1024" /></a>
+<img class="size-large wp-image-48163 alignnone" src="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version-410x1024.jpg" alt="" width="410" height="1024" /></a>
 Giving Day 2018 Outcomes:
 
 University’s students and programs. After all online and offline gifts were tallied, results of the University’s second Mary Wash Giving Day exceed preliminary counts for donors and dollars.

@@ -16,7 +16,7 @@ post_date: 2017-03-13 15:38:18
 <img class="size-large wp-image-48163 alignnone" src="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version-410x1024.jpg" alt="" width="410" height="1024" /></a>
 Giving Day 2018 Outcomes:
 
-University’s students and programs. After all online and offline gifts were tallied, results of the University’s second Mary Wash Giving Day exceed preliminary counts for donors and dollars.
+On March 20, 2018, the Mary Washington community came together to donate funds for the University’s students and programs. After all online and offline gifts were tallied, results of the University’s second Mary Wash Giving Day exceed preliminary counts for donors and dollars.
 
 All told, <strong>2,418</strong> donors made <strong>2,987</strong> gifts on Giving Day. Their gifts totaled <strong>$449,631</strong> for areas across the University, including the Fund for Mary Washington, UMW Athletics, academic departments, arts and culture, and the three Colleges. The day’s original goal was 1,908 gifts in honor of the University’s founding year.
 <ul>

@@ -12,7 +12,21 @@ post_date: 2017-03-13 15:38:18
 <h2>#MaryWashDay Breaks Records in 2018</h2>
 <a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-2018-infographic-PDF-print.pdf"><em>Download the 2018 Mary Wash Giving Day results infographic as a PDF</em></a>.
 
-<a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version.jpg"><img class="size-large wp-image-48163 alignnone" src="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version-410x1024.jpg" alt="" width="410" height="1024" /></a>
+<a href="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version.jpg">
+<img class="size-large wp-image-48163 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/04/Giving-Day-infographic-2018-jpeg-version-410x1024.jpg" alt="" width="410" height="1024" /></a>
+Giving Day 2018 Outcomes:
+
+University’s students and programs. After all online and offline gifts were tallied, results of the University’s second Mary Wash Giving Day exceed preliminary counts for donors and dollars.
+
+All told, <strong>2,418</strong> donors made <strong>2,987</strong> gifts on Giving Day. Their gifts totaled <strong>$449,631</strong> for areas across the University, including the Fund for Mary Washington, UMW Athletics, academic departments, arts and culture, and the three Colleges. The day’s original goal was 1,908 gifts in honor of the University’s founding year.
+<ul>
+ 	<li>The $449,631 donated represents a 107% increase over last year’s Giving Day.</li>
+ 	<li>The 2,418 donors represent a 122% increase over last year’s Giving Day.</li>
+ 	<li>Mary Washington alumni from 75 classes made Giving Day gifts, beginning with the Class of 1942.</li>
+ 	<li>521 graduates of the last 10 years made gifts on Giving Day.</li>
+ 	<li>727 people made their first-ever gift to Mary Washington on Giving Day.</li>
+ 	<li>Giving Day gifts came from donors in 45 U.S. states and 10 countries.</li>
+</ul>
 
 <hr />
 
@@ -33,4 +47,6 @@ We have set an ambitious goal for our second annual #MaryWashDay: <strong>1,908
 <hr />
 
 <h2><strong>A Look Back at Mary Wash Giving Day 2017: </strong></h2>
+&nbsp;
+
 <img class="aligncenter wp-image-47802" src="https://giving.umw.edu/wp-content/uploads/2017/03/Mary-Wash-Giving-Day-2017-results-infographic.jpg" alt="mary-wash-giving-day-2017-results-infographic" width="532" height="411" />

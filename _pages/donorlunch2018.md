@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-04-18 20:21:47
 ---
-Each year, endowment donors and members of the Washington and Heritage Societies are invited to attend the Student Showcase and Donor Appreciation Luncheon.
+<img class="alignnone size-large wp-image-48167" src="http://giving.umw.edu/wp-content/uploads/2018/04/UMW-2018-Luncheon-49-1024x731.jpg" alt="" width="1024" height="731" />Each year, endowment donors and members of the Washington and Heritage Societies are invited to attend the Student Showcase and Donor Appreciation Luncheon.
 
-<a href="https://giving.umw.edu/wp-content/uploads/2017/05/UMW-Scholarship-Luncheon-2017-010.jpg"><img class="alignleft wp-image-47848" src="https://giving.umw.edu/wp-content/uploads/2017/05/UMW-Scholarship-Luncheon-2017-010-300x214.jpg" alt="umw-scholarship-luncheon-2017-010" width="270" height="193" /></a>Student scholarship recipients are invited to display their art or research projects before the luncheon, while enjoying the opportunity to meet and thank their donors in person.
+Student scholarship recipients are invited to display their art or research projects before the luncheon, while enjoying the opportunity to meet and thank their donors in person.
 
 The 2018 luncheon was held at the Jepson Alumni Executive Center on April 7. President Troy D. Paino addressed the group and thanked all for their special commitment to UMW students and higher education.
 <h2>View photos and videos from the Luncheon:</h2>

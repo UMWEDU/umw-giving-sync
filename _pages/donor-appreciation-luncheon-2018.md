@@ -23,18 +23,12 @@ Visit <a href="https://flic.kr/s/aHsmadyeLQ"><strong>Flickr to view and/or downl
 <strong>Welcome by Caty-Scarlett Coleman '18 ()</strong>
 <em>The Foster House God Built &amp; Collegiate Funding Services Scholarship</em>
 
-<strong>Recipient Appreciation by Courtney Burrows '17, M.Ed. '18 ( )</strong><strong>
-</strong><em>2018 Ukrop Scholar &amp; Mann College of Education Graduate Year Scholarship</em>
-
-&nbsp;
+<a href="https://youtu.be/sDAo2zQBnxc"><strong>Recipient Appreciation by Courtney Burrows '17, M.Ed. '18 (4:04 )</strong></a> <em>2018 Ukrop Scholar &amp; Mann College of Education Graduate Year Scholarship</em>
 
 <strong>President’s Remarks by Troy D. Paino ()</strong>
 
-<strong>Student Introduction by Benjamin Henderson '18 ( )
-<em>Crawley Senior Fund &amp; Karen Peters Zirkle '74 </em></strong><strong><em>Memorial Scholarship</em></strong>
-
-Remarks by Zaire K. A. Sprowal ’17 (3:21)
-<em>I.J. and Hilda M. Breeden Foundation Scholarship</em>
+<strong><a href="https://youtu.be/jZyt1y8zw7Y">Student Introduction by Benjamin Henderson '18 (2:27 )</a>
+</strong><em>Crawley Senior Fund &amp; Karen Peters Zirkle '74 </em><em>Memorial Scholarship</em>
 
 <strong>Musical Showcase by Madeline Petroskey '20 ( )
 </strong><em>Barbara Crickenberger Hall '69 Theatre Scholarship</em>

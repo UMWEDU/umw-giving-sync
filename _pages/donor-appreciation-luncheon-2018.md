@@ -14,10 +14,8 @@ Each year, endowment donors and members of the Washington and Heritage Societies
 <a href="https://giving.umw.edu/wp-content/uploads/2017/05/UMW-Scholarship-Luncheon-2017-010.jpg"><img class="alignleft wp-image-47848" src="https://giving.umw.edu/wp-content/uploads/2017/05/UMW-Scholarship-Luncheon-2017-010-300x214.jpg" alt="umw-scholarship-luncheon-2017-010" width="270" height="193" /></a>Student scholarship recipients are invited to display their art or research projects before the luncheon, while enjoying the opportunity to meet and thank their donors in person.
 
 The 2018 luncheon was held at the Jepson Alumni Executive Center on April 8. President Troy D. Paino addressed the group and thanked all for their special commitment to UMW students and higher education.
-
-&nbsp;
 <h2>View photos and videos from the Luncheon:</h2>
-Visit <a href="https://flic.kr/s/aHsmadyeLQ">Flickr to view and/or download</a> any photos, courtesy of the UMW Office of Advancement. Event photos taken by Terry Cosgrove.
+Visit <a href="https://flic.kr/s/aHsmadyeLQ"><strong>Flickr to view and/or download</strong></a> any photos, courtesy of the UMW Office of Advancement. Event photos taken by Terry Cosgrove.
 
 <strong>Click links below to view short video clips from the program. (Approximate running times are noted by each title.)
 </strong>

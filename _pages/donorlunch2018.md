@@ -4,8 +4,7 @@ post_title: 'Donor Appreciation Luncheon &#8211; 2018'
 author: Donna Harter
 post_excerpt: ""
 layout: page
-permalink: >
-  http://giving.umw.edu/donor-appreciation-luncheon-2018/
+permalink: http://giving.umw.edu/donorlunch2018/
 published: true
 post_date: 2018-04-18 20:21:47
 ---

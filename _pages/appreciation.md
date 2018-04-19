@@ -1,11 +1,11 @@
 ---
 ID: 47844
-post_title: Donor Appreciation Luncheon
+post_title: Donor Appreciation Luncheon 2017
 author: Donna Harter
 post_excerpt: ""
 layout: page
 permalink: >
-  https://giving.umw.edu/endowments/appreciation/
+  http://giving.umw.edu/endowments/appreciation/
 published: true
 post_date: 2017-05-02 11:58:47
 ---

@@ -17,13 +17,15 @@ The 2018 luncheon was held at the Jepson Alumni Executive Center on April 7. Pre
 <h2>View photos and videos from the Luncheon:</h2>
 Visit <a href="https://flic.kr/s/aHsmadyeLQ"><strong>Flickr to view and/or download</strong></a> any photos, courtesy of the UMW Office of Advancement. Event photos taken by Terry Cosgrove.
 
-<strong>Click links below to view short video clips from the program. (Approximate running times are noted by each title.)
+<strong>Click links below to view short video clips from the program.
+(Approximate viewing times are noted by each title.)
 </strong>
 
 <a href="https://youtu.be/631SWjpEau8"><strong>Welcome by Caty-Scarlett Coleman '18 (3:40)</strong></a>
 <em>The Foster House God Built &amp; Collegiate Funding Services Scholarship</em>
 
-<a href="https://youtu.be/sDAo2zQBnxc"><strong>Recipient Appreciation by Courtney Burrows '17, M.Ed. '18 (4:04 )</strong></a> <em>2018 Ukrop Scholar &amp; Mann College of Education Graduate Year Scholarship</em>
+<a href="https://youtu.be/sDAo2zQBnxc"><strong>Recipient Appreciation by Courtney Burrows '17, M.Ed. '18 (4:04 )</strong></a>
+<em>2018 Ukrop Scholar &amp; Mann College of Education Graduate Year Scholarship</em>
 
 <a href="https://youtu.be/pFKjrLvN6X4"><strong>President’s Remarks by Troy D. Paino (5:58)</strong></a>
 
@@ -34,7 +36,8 @@ Visit <a href="https://flic.kr/s/aHsmadyeLQ"><strong>Flickr to view and/or downl
 </strong><em>Barbara Crickenberger Hall '69 Theatre Scholarship</em>
 <em>June Davis McCormick '49 Scholarship</em>
 
-<a href="https://youtu.be/66LNdE8nHSU"><strong>Alumna Perspective by Suzanne Augugliaro Silitch '95 (7:02)</strong></a><strong>  </strong><em>Barbara Diane Hall Memorial Scholarship</em><em>
+<a href="https://youtu.be/66LNdE8nHSU"><strong>Alumna Perspective by Suzanne Augugliaro Silitch '95 (7:02)</strong></a>
+<em>Barbara Diane Hall Memorial Scholarship</em><em>
 </em>
 
 <strong><a href="https://youtu.be/6WoVCSz312M">Alma Mater led by Madeline Petroskey '20 (2:03)</a>

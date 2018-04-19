@@ -17,7 +17,7 @@ The 2018 luncheon was held at the Jepson Alumni Executive Center on April 8. Pre
 
 &nbsp;
 <h2>View photos and videos from the Luncheon:</h2>
-Visit<a href="https://flic.kr/s/aHskXeHvdu" target="_blank" rel="noopener"> Flickr to view and/or download</a> any photos, courtesy of the UMW Office of Advancement. Event photos taken by Terry Cosgrove.
+Visit <a href="https://flic.kr/s/aHsmadyeLQ">Flickr to view and/or download</a> any photos, courtesy of the UMW Office of Advancement. Event photos taken by Terry Cosgrove.
 
 <strong>Click links below to view short video clips from the program. (Approximate running times are noted by each title.)
 </strong>
@@ -33,9 +33,9 @@ Visit<a href="https://flic.kr/s/aHskXeHvdu" target="_blank" rel="noopener"> Flic
 <strong>President’s Remarks by Troy D. Paino ()</strong>
 
 <strong>Student Introduction by Benjamin Henderson '18 ( )
-<em>Crawley Senior Fund &amp; Karen Peters Zirkle '74 </em></strong><strong><em>Memorial Scholarship
+<em>Crawley Senior Fund &amp; Karen Peters Zirkle '74 </em></strong><strong><em>Memorial Scholarship</em></strong>
 
-Remarks by Zaire K. A. Sprowal ’17 (3:21)</em></strong>
+Remarks by Zaire K. A. Sprowal ’17 (3:21)
 <em>I.J. and Hilda M. Breeden Foundation Scholarship</em>
 
 <strong>Musical Showcase by Madeline Petroskey '20 ( )

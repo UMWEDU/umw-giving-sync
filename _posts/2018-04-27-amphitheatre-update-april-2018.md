@@ -5,9 +5,9 @@ author: Donna Harter
 post_excerpt: ""
 layout: post
 permalink: >
-  http://giving.umw.edu/blog/2018/04/13/amphitheatre-update-april-2018/
+  http://giving.umw.edu/blog/2018/04/27/amphitheatre-update-april-2018/
 published: true
-post_date: 2018-04-13 12:20:37
+post_date: 2018-04-27 12:20:37
 ---
 The first Amphitheatre located in the grove on the Mary Washington campus was built around 1913. At that time, it was a simple wooden structure with wooden benches. A major reconstruction was begun in the 1920s, and the new “open-air theatre” was dedicated May 11, 1923.
 

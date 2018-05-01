@@ -5,7 +5,7 @@ author: Donna Harter
 post_excerpt: ""
 layout: post
 permalink: >
-  http://giving.umw.edu/blog/2018/04/30/2018-donor-appreciation-publications/
+  http://giving.umw.edu/blog/2018/04/30/2018donorpublications/
 published: true
 post_date: 2018-04-30 22:15:08
 ---

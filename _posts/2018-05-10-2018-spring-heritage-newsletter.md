@@ -11,8 +11,8 @@ post_date: 2018-05-10 13:18:45
 ---
 CLICK HERE TO READ the latest publication featuring articles about:<img class="wp-image-48178 size-medium alignright" src="http://giving.umw.edu/wp-content/uploads/2018/05/UMW-Heritage-News-singlesB_alt_Page_1-232x300.jpg" alt="" width="232" height="300" />
 
-* James Llewellyn '87 and Carolyn Eldred '66
+* James C. Llewellyn '87 and Carolyn Eldred '66
 
-* A former faculty member: Distinguished Professor Emeritus of English Donald E. Glover
+* Distinguished Professor Emeritus of English Donald E. Glover
 
-* And UMW student: Martha Keegan '18
+* And UMW student, Martha Keegan '18

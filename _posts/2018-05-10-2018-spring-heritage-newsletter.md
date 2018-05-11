@@ -1,6 +1,6 @@
 ---
 ID: 48177
-post_title: 2018 Spring Heritage Newsletter
+post_title: 2018 Spring/Summer Heritage Newsletter
 author: Donna Harter
 post_excerpt: ""
 layout: post

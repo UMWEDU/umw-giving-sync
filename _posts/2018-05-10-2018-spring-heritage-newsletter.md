@@ -22,3 +22,5 @@ post_date: 2018-05-10 13:18:45
 *Distinguished Professor Emeritus of English Donald E. Glover
 
 *Helpful tips for estate planning
+
+For more information, send an email to <a href="jclarke@umw.edu" target="_blank" rel="noopener">Jan Clarke</a> in the Office of Gift Planning or call 540-654-2064.

@@ -23,4 +23,4 @@ post_date: 2018-05-10 13:18:45
 
 *Helpful tips for estate planning
 
-For more information, send an email to <a href="jclarke@umw.edu" target="_blank" rel="noopener">Jan Clarke</a> in the Office of Gift Planning or call 540-654-2064.
+For more information, contact Jan Clarke at <a href="mailto:jclarke@umw.edu" target="_blank" rel="noopener">jclarke@umw.edu</a> or 540-654-2064.

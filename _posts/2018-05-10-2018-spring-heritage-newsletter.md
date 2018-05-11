@@ -15,4 +15,8 @@ post_date: 2018-05-10 13:18:45
 
 * Carolyn Eldred '66
 
-* And UMW student, Martha Keegan '18
+* Martha Keegan '18
+
+*Margaret Sutton 1926 and Alfred Levitt
+
+*Distinguished Professor Emeritus of English Donald E. Glover

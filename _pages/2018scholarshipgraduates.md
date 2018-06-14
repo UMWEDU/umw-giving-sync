@@ -15,6 +15,6 @@ During Mary Washington's 2018 Commencement ceremonies, 194 students receiving th
 
 <a href="http://giving.umw.edu/wp-content/uploads/2018/06/2018-Grad-Commencement-Booklet.pdf" target="_blank" rel="noopener">Click here to see a pdf of the 107th Commencement program for the <strong>Graduate</strong></a> ceremony held on May 11, 2018.
 
-<a href="http://giving.umw.edu/wp-content/uploads/2018/06/REV_2018-Undergrad-Commencement-Booklet.pdf" target="_blank" rel="noopener">Click here to see a pdf of the 107th Commencement program for the <strong>Undergraduate</strong></a> Ceremony held on May 12, 2018.
+<a href="http://giving.umw.edu/wp-content/uploads/2018/06/REV_2018-Undergrad-Commencement-Booklet.pdf" target="_blank" rel="noopener">Click here to see a pdf of the 107th Commencement program for the <strong>Undergraduate</strong></a> ceremony held on May 12, 2018.
 
 &nbsp;

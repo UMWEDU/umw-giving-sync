@@ -28,7 +28,7 @@ Donor Relations and Stewardship Assistant
 Email: <a href="mailto:maylward@umw.edu">maylward@umw.edu</a></td>
 </tr>
 <tr>
-<td></td>
+<td>(Photo to come)</td>
 <td><strong>To Be Filled<br style="font-weight: normal" />Assistant Director of Alumni Communications<br style="font-weight: normal" /><span style="font-weight: normal">Phone: 540/654-2062</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:abeaulie@umw.edu">abeaulie@umw.edu</a></span></strong></td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ Phone: 540/654-2067
 Email: <a href="mailto:mcushman@umw.edu">mcushman@umw.edu</a></td>
 </tr>
 <tr>
-<td></td>
+<td>(Photo to come)</td>
 <td><strong>To Be Filled
 <b>Office Manager &amp; Executive Assistant to the VP for Advancement and University Relations</b>
 </strong>Phone: 540/654-1105

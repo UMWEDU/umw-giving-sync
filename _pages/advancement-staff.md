@@ -151,7 +151,7 @@ Email: <a href="mailto:lreaser@umw.edu">lreaser@umw.edu</a></td>
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Catherine1-e1474899372790.gif"><img class="alignnone wp-image-47563" src="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Catherine1-e1474899372790-237x300.gif" alt="web-465-catherine" width="166" height="210" /></a></td>
 <td><strong>Catherine Seller</strong>
-<strong>Assistant Vice President for Operations</strong>
+<strong>Assistant Vice President for Donor Relations &amp; Operations</strong>
 Phone: 540/654-1178
 Email: <a href="mailto:cseller@umw.edu">cseller@umw.edu</a></td>
 </tr>

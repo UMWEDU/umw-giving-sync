@@ -28,11 +28,11 @@ Donor Relations and Stewardship Assistant
 Email: <a href="mailto:maylward@umw.edu">maylward@umw.edu</a></td>
 </tr>
 <tr>
-<td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/AmyWeb-e1474899269783.jpg"><img class="alignnone wp-image-47561" src="https://giving.umw.edu/wp-content/uploads/2011/09/AmyWeb-e1474899269783-200x300.jpg" alt="amyweb" width="167" height="251" /></a></td>
-<td><strong>Amy Beaulieu<br style="font-weight: normal" />Assistant Director of Alumni Communications<br style="font-weight: normal" /><span style="font-weight: normal">Phone: 540/654-2062</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:abeaulie@umw.edu">abeaulie@umw.edu</a></span></strong></td>
+<td></td>
+<td><strong>To Be Filled<br style="font-weight: normal" />Assistant Director of Alumni Communications<br style="font-weight: normal" /><span style="font-weight: normal">Phone: 540/654-2062</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:abeaulie@umw.edu">abeaulie@umw.edu</a></span></strong></td>
 </tr>
 <tr>
-<td style="text-align: center"><img class="alignnone wp-image-48114 size-medium" src="http://giving.umw.edu/wp-content/uploads/2018/02/Bowling-1-224x300.jpg" alt="" width="224" height="300" /></td>
+<td style="text-align: center"><img class="alignnone wp-image-48114" src="http://giving.umw.edu/wp-content/uploads/2018/02/Bowling-1-224x300.jpg" alt="" width="156" height="209" /></td>
 <td><strong>Lisa Jamison Bowling '89
 <strong>Vice President for Advancement &amp; University Relations</strong>
 </strong>Phone: 540/654-1372
@@ -67,8 +67,8 @@ Phone: 540/654-2067
 Email: <a href="mailto:mcushman@umw.edu">mcushman@umw.edu</a></td>
 </tr>
 <tr>
-<td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/Brittany-Employee-photo-e1474899479927.jpg"><img class="alignnone wp-image-47565" src="https://giving.umw.edu/wp-content/uploads/2011/09/Brittany-Employee-photo-e1474899479927-199x300.jpg" alt="brittany-employee-photo" width="165" height="249" /></a></td>
-<td><strong>Brittany Farrall
+<td></td>
+<td><strong>To Be Filled
 <b>Office Manager &amp; Executive Assistant to the VP for Advancement and University Relations</b>
 </strong>Phone: 540/654-1105
 Email: <a href="mailto:bsmith9@umw.edu">bsmith9@umw.edu</a></td>
@@ -207,4 +207,4 @@ Email: <a href="mailto:mwhites2@umw.edu" target="_blank" rel="noopener">mwhites2
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

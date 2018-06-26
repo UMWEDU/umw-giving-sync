@@ -1,6 +1,6 @@
 ---
 ID: 48192
-post_title: Your Giving, Their Success Stories
+post_title: Your Giving, Their Success
 author: Elizabeth Hunsinger
 post_excerpt: ""
 layout: post

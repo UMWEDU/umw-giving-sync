@@ -28,10 +28,6 @@ Donor Relations and Stewardship Assistant
 Email: <a href="mailto:maylward@umw.edu">maylward@umw.edu</a></td>
 </tr>
 <tr>
-<td>(Photo to come)</td>
-<td><strong>To Be Filled<br style="font-weight: normal" />Assistant Director of Alumni Communications<br style="font-weight: normal" /><span style="font-weight: normal">Phone: 540/654-2062</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:abeaulie@umw.edu">abeaulie@umw.edu</a></span></strong></td>
-</tr>
-<tr>
 <td style="text-align: center"><img class="alignnone wp-image-48114" src="http://giving.umw.edu/wp-content/uploads/2018/02/Bowling-1-224x300.jpg" alt="" width="156" height="209" /></td>
 <td><strong>Lisa Jamison Bowling '89
 <strong>Vice President for Advancement &amp; University Relations</strong>
@@ -71,7 +67,7 @@ Email: <a href="mailto:mcushman@umw.edu">mcushman@umw.edu</a></td>
 <td><strong>To Be Filled
 <b>Office Manager &amp; Executive Assistant to the VP for Advancement and University Relations</b>
 </strong>Phone: 540/654-1105
-Email: <a href="mailto:bsmith9@umw.edu">bsmith9@umw.edu</a></td>
+Email:</td>
 </tr>
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/5187-K-Pearlman-Photography-e1474899134237.jpg"><img class="alignnone wp-image-47559" src="https://giving.umw.edu/wp-content/uploads/2011/09/5187-K-Pearlman-Photography-e1474899134237-238x300.jpg" alt="5187-k-pearlman-photography" width="167" height="211" /></a></td>
@@ -121,11 +117,15 @@ Coordinator for Donor Relations and Stewardship
 Email:<strong> </strong><a href="mailto:dlemaste@umw.edu">dlemaste@umw.edu</a></td>
 </tr>
 <tr>
-<td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Brooke-e1474898915595.gif"><img class="alignnone wp-image-47557" src="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Brooke-e1474898915595-217x300.gif" alt="web-465-brooke" width="167" height="231" /></a></td>
-<td><strong>Brooke Matta
+<td>(Photo to come)</td>
+<td><strong>To Be Filled
 Annual Giving Associate
 </strong>Phone: 540/654-2070
-Email: <a href="mailto:bmatta@umw.edu">bmatta@umw.edu</a></td>
+Email:</td>
+</tr>
+<tr>
+<td>(Photo to come)</td>
+<td><strong>Angela McCormick<br style="font-weight: normal" />Assistant Director of Alumni Communications<br style="font-weight: normal" /><span style="font-weight: normal">Phone: 540/654-2062</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:amccormi@umw.edu">amccormi@umw.edu</a></span></strong></td>
 </tr>
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/Shelby-1-e1474897805320.jpg"><img class="alignnone wp-image-47542" src="https://giving.umw.edu/wp-content/uploads/2011/09/Shelby-1-e1474897805320-235x300.jpg" alt="shelby-1" width="168" height="214" /></a></td>
@@ -137,7 +137,8 @@ Email: <a href="mailto:sorlando@umw.edu" target="_blank" rel="noopener">sorlando
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Philip-e1474899037400.gif"><img class="alignnone wp-image-47558" src="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Philip-e1474899037400-208x300.gif" alt="web-465-philip" width="167" height="241" /></a></td>
 <td><strong>Philip Pierce
-Director of Athletic Development and Promotions</strong>
+Associate Director of Annual Giving and
+Director of the Eagle Club</strong>
 Phone: 540/654-1153
 Email: <a href="mailto:ppierce@umw.edu">ppierce@umw.edu</a></td>
 </tr>

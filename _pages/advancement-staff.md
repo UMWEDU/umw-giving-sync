@@ -119,7 +119,7 @@ Email:<strong> </strong><a href="mailto:dlemaste@umw.edu">dlemaste@umw.edu</a><
 <tr>
 <td>(Photo to come)</td>
 <td><strong>To Be Filled
-Annual Giving Associate
+Assistant Director of Annual Giving
 </strong>Phone: 540/654-2070
 Email:</td>
 </tr>

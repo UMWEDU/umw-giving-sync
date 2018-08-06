@@ -82,11 +82,11 @@ Email: <a href="mailto:dharter@umw.edu" target="_blank" rel="noopener">dharter@u
 <span style="font-weight: normal">Phone: 540/654-2061</span><br style="font-weight: normal" /><span style="font-weight: normal">Email: <a href="mailto:zhatcher@umw.edu">zhatcher@umw.edu</a></span></strong></td>
 </tr>
 <tr>
-<td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Patrick-e1474898685216.gif"><img class="alignnone wp-image-47552" src="https://giving.umw.edu/wp-content/uploads/2011/09/web-465-Patrick-e1474898685216-198x300.gif" alt="web-465-patrick" width="166" height="252" /></a></td>
-<td><strong>Patrick Heckel</strong>
+<td>(photo to come)</td>
+<td><strong>To Be Filled</strong>
 <strong>Associate Director of Regional Alumni Engagement</strong>
 Phone: 540/654-2066
-Email: <a href="mailto:pheckel@umw.edu">pheckel@umw.edu</a></td>
+Email:</td>
 </tr>
 <tr>
 <td><a href="https://giving.umw.edu/wp-content/uploads/2011/09/Diane-2-e1474898741296.jpg"><img class="alignnone wp-image-47553" src="https://giving.umw.edu/wp-content/uploads/2011/09/Diane-2-e1474898741296-198x300.jpg" alt="diane-2" width="167" height="254" /></a></td>

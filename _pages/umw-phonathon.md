@@ -38,7 +38,7 @@ Monday/Wednesday 6 - 9 p.m.  <em><strong>OR</strong></em>  Tuesday/Thursday 6
 </ul>
 <strong>Dates:</strong>
 <ul>
- 	<li>Application Deadline: January 19 by noon</li>
+ 	<li>Application Deadline: September 7 by noon</li>
  	<li>Interviews will take place at 1201 College Ave (house on corner of College Avenue and William St.)</li>
  	<li>Mandatory training: date to be determined</li>
  	<li>First day of calling: Thursday, September 20</li>

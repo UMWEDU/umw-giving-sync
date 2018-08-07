@@ -13,4 +13,4 @@ Each semester, UMW <a href="https://giving.umw.edu/wp-content/uploads/2012/01/we
 
 Many alumni and parents say they look forward to talking to the student callers, and even plan their giving according to the Phonathon schedule. For <a href="http://giving.umw.edumake-a-gift/umw-phonathon/" target="_blank" rel="noopener">UMW students</a>, Phonathon is a great way to gain relevant work experience for resume development and career planning.
 
-The Spring <strong>2018</strong> Phonathon runs from <strong>January 29 through April 12</strong>.
+The Fall <strong>2018</strong> Phonathon runs from <strong>September 20 through November 29</strong>.

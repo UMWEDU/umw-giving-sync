@@ -5,11 +5,11 @@ author: Donna Harter
 post_excerpt: ""
 layout: page
 permalink: >
-  https://giving.umw.edu/make-a-gift/umw-phonathon/
+  http://giving.umw.edu/make-a-gift/umw-phonathon/
 published: true
 post_date: 2012-01-10 19:28:14
 ---
-<h4>Each semester, Phonathon callers contact thousands of UMW alumni and parents to ask for their support of Mary Washington. The Phonathon program is essential to the advancement of UMW's educational mission and its outreach to alumni and parents. The<strong> Spring 2018</strong> calling semester runs from <strong>January 29 through April 12</strong>. The Phonathon Application is linked below.</h4>
+<h4>Each semester, Phonathon callers contact thousands of UMW alumni and parents to ask for their support of Mary Washington. The Phonathon program is essential to the advancement of UMW's educational mission and its outreach to alumni and parents. The<strong> Fall 2018</strong> calling semester runs from <strong>September 20 through November 29</strong>. The Phonathon Application is linked below.</h4>
 <strong>Apply to be a Caller:</strong>  If you are currently enrolled as a full-time student at UMW with a cumulative minimum GPA of 2.0, complete the <a href="http://giving.umw.edu/make-a-gift/umw-phonathon/phonathon-associate-application/">Phonathon Application</a>. The schedule is built in the order in which applications are received, so get yours in early! Contact Shelby Orlando, Assistant Director of Annual Giving  at 540/654-1361 or <a href="mailto:sorlando@umw.edu">sorlando@umw.edu</a> if you have questions. Training for new and returning callers will be held once hired and is <strong>mandatory</strong>.  <strong>
 </strong>
 
@@ -39,17 +39,16 @@ Monday/Wednesday 6 - 9 p.m.  <em><strong>OR</strong></em>  Tuesday/Thursday 6
 <strong>Dates:</strong>
 <ul>
  	<li>Application Deadline: January 19 by noon</li>
- 	<li>Interviews will take place at Hamlet House</li>
- 	<li>Mandatory training: Sunday, January 28</li>
- 	<li>First day of calling: Monday, January 29</li>
- 	<li>Last day of calling: Thursday, April 12</li>
- 	<li>No calling: Spring Break (March 2-11)
+ 	<li>Interviews will take place at 1201 College Ave (house on corner of College Avenue and William St.)</li>
+ 	<li>Mandatory training: date to be determined</li>
+ 	<li>First day of calling: Thursday, September 20</li>
+ 	<li>Last day of calling: Thursday, November 29</li>
+ 	<li>No calling: Fall Break (October 14-16)
 <ul>
- 	<li>Easter (April 1)</li>
+ 	<li>Thanksgiving Break (November 18 - 25)</li>
 </ul>
 </li>
 </ul>
-<strong>
-</strong>
+<strong> </strong>
 
 &nbsp;

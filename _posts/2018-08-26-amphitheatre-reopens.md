@@ -18,41 +18,7 @@ See photos below to get a glimpse of how UMW supporters helped preserve and enha
 <td><img class="aligncenter wp-image-48222" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-45-1024x671.jpg" alt="" width="500" height="328" /></td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<table style="height: 4126px" width="517">
-<tbody>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td><img class="alignnone wp-image-48221" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-42-1024x680.jpg" alt="" width="500" height="332" /></td>
+<td><img class="wp-image-48221 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-42-1024x680.jpg" alt="" width="500" height="332" /></td>
 </tr>
 <tr>
 <td><img class="alignnone wp-image-48224" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-47-1024x684.jpg" alt="" width="500" height="334" /></td>
@@ -76,8 +42,8 @@ See photos below to get a glimpse of how UMW supporters helped preserve and enha
 <td><img class="alignnone wp-image-48215" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-16-1024x684.jpg" alt="" width="500" height="334" /></td>
 </tr>
 <tr>
-<td><img class="alignnone size-large wp-image-48234" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-80-1024x281.jpg" alt="" width="1024" height="281" /></td>
+<td><img class="aligncenter wp-image-48234" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-80-1024x281.jpg" alt="" width="500" height="137" /></td>
 </tr>
 </tbody>
 </table>
-<br />
+&nbsp;

@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-08-26 22:24:00
 ---
-The major portion of the $3-million Amphitheatre restoration project is now complete. The final pieces of the pergolas were installed, the safety barriers were removed, and the Heslep Amphitheatre and Morris Stage now are open to students and members of the community.
+The major portion of the $3-million Amphitheatre restoration project is now complete. The final pieces of the pergolas are in place atop the 16 columns, the construction fencing is gone, and the Heslep Amphitheatre and Morris Stage now are open to students and members of the community.
 
-See photos below to get a glimpse of how UMW supporters helped preserve and enhance this cherished landmark.
+See photos below to get a glimpse of how UMW supporters rallied together to help preserve and enhance this cherished landmark.
 <table style="height: 273px" width="604">
 <tbody>
 <tr>
@@ -46,4 +46,4 @@ See photos below to get a glimpse of how UMW supporters helped preserve and enha
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />

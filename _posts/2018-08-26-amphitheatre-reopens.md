@@ -12,7 +12,7 @@ post_date: 2018-08-26 22:24:00
 The major portion of the $3-million Amphitheatre restoration project is now complete. The final pieces of the pergolas were installed, the safety barriers were removed, and the Heslep Amphitheatre and Morris Stage now are open to students and members of the community.
 
 See photos below to get a glimpse of how UMW supporters helped preserve and enhance this cherished landmark.
-<table style="height: 3931px" width="516">
+<table style="height: 4072px" width="599">
 <tbody>
 <tr>
 <td><img class="wp-image-48222 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-45-1024x671.jpg" alt="" width="500" height="328" /></td>
@@ -40,6 +40,9 @@ See photos below to get a glimpse of how UMW supporters helped preserve and enha
 </tr>
 <tr>
 <td><img class="alignnone wp-image-48215" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-16-1024x684.jpg" alt="" width="500" height="334" /></td>
+</tr>
+<tr>
+<td><img class="alignnone size-large wp-image-48234" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-80-1024x281.jpg" alt="" width="1024" height="281" /></td>
 </tr>
 </tbody>
 </table>

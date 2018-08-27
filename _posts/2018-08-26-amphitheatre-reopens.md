@@ -21,29 +21,29 @@ See photos below to get a glimpse of how UMW supporters helped preserve and enha
 <td><img class="wp-image-48221 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-42-1024x680.jpg" alt="" width="500" height="332" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48224" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-47-1024x684.jpg" alt="" width="500" height="334" /></td>
+<td><img class="wp-image-48224 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-47-1024x684.jpg" alt="" width="500" height="334" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48204" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-5-1024x684.jpg" alt="" width="500" height="334" /></td>
+<td><img class="wp-image-48204 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-5-1024x684.jpg" alt="" width="500" height="334" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48205" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-6-1024x684.jpg" alt="" width="500" height="334" /></td>
+<td><img class="wp-image-48205 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-6-1024x684.jpg" alt="" width="500" height="334" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48216" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-17-1024x684.jpg" alt="" width="500" height="334" /></td>
+<td><img class="wp-image-48216 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-17-1024x684.jpg" alt="" width="500" height="334" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48219" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-20-684x1024.jpg" alt="" width="500" height="749" /></td>
+<td><img class="wp-image-48219 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-20-684x1024.jpg" alt="" width="500" height="749" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48220" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-21-684x1024.jpg" alt="" width="500" height="749" /></td>
+<td><img class="wp-image-48220 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-21-684x1024.jpg" alt="" width="500" height="749" /></td>
 </tr>
 <tr>
-<td><img class="alignnone wp-image-48215" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-16-1024x684.jpg" alt="" width="500" height="334" /></td>
+<td><img class="wp-image-48215 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-16-1024x684.jpg" alt="" width="500" height="334" /></td>
 </tr>
 <tr>
-<td><img class="aligncenter wp-image-48234" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-80-1024x281.jpg" alt="" width="500" height="137" /></td>
+<td><img class="wp-image-48234 aligncenter" src="http://giving.umw.edu/wp-content/uploads/2018/08/UMW-Amphitheater-Campus-23August2018-80-1024x281.jpg" alt="" width="500" height="137" /></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
+<br />
